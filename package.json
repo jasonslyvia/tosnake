@@ -1,0 +1,20 @@
+{
+  "name": "tosnake",
+  "version": "1.0.0",
+  "description": "A simple CLI converts input stream from camelCase to snake_case",
+  "main": "index.js",
+  "scripts": {
+    "test": "return 0"
+  },
+  "keywords": [
+    "camelcase",
+    "snakecase",
+    "cli"
+  ],
+  "bin": {
+    "tosnake": "index.js"
+  },
+  "preferGlobal": true,
+  "author": "jasonslyvia <jasonslyvia@gmail.com> (http://undefinedblog.com/)",
+  "license": "MIT"
+}
